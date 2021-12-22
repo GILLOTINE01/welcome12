@@ -1,0 +1,6 @@
+[GLOBAL]
+VERSION=1
+TAG=Procom8
+[WDREPORT]
+LOCAL_DIR=C:\Procom8\Etats et Requêtes
+GLOBAL_DIR=C:\Procom8\Etats et Requêtes Partagés
